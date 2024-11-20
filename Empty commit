@@ -1,0 +1,3 @@
+cd /path/to/your/repository
+$ git commit --allow-empty -m "This is an empty commit"
+$ git push origin main
